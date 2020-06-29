@@ -1,5 +1,5 @@
 class Session:
-    NUMBER_TO_TEXT_MAP: {
+    NUMBER_TO_TEXT_MAP = {
         1: 'one',
         2: 'two',
         3: 'three',
@@ -11,7 +11,7 @@ class Session:
         9: 'nine'
     }
 
-    TEXT_TO_NUMBER_MAP: {
+    TEXT_TO_NUMBER_MAP = {
         'one': 1,
         'two': 2,
         'three': 3,
