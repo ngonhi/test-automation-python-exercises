@@ -17,6 +17,6 @@ def contain_same_nums(a, b, c):
     print(a == b and b == c)
 
 
-contain_same_nums(a, b, c)
-contain_same_nums(x, y, z)
-contain_same_nums(m, n, o)
+contain_same_nums(a, b, c) #True
+contain_same_nums(x, y, z) #True
+contain_same_nums(m, n, o) #False
